@@ -1,0 +1,4 @@
+This is the sample file to perform python file operations.
+Hey hi, you are learning python fun programming. Hopefully you will enjoy the course if you
+maintain the consistency.
+Lets start the journey.
